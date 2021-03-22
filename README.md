@@ -1,4 +1,4 @@
-- 🌱 Hi, I’m @LateNightIceCream
+🌱 Hi, I’m @LateNightIceCream
 
 <!---
 LateNightIceCream/LateNightIceCream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
