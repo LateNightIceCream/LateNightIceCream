@@ -1,5 +1,5 @@
 🌱 Hi, I’m @LateNightIceCream
-![GitHub Logo](noah-silliman-01Qqkfz-ck8-unsplash.jpg)
+![GitHub Logo](output.gif)
 
 <!---
 LateNightIceCream/LateNightIceCream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
